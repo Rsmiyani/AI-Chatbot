@@ -1,0 +1,671 @@
+2025-08-17 14:49:13,715 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-17 14:49:14,012 - NOAH_AI - DEBUG - Text-to-speech engine configured
+2025-08-17 14:49:14,012 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-17 14:49:14,451 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-17 14:49:14,452 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-17 14:49:15,598 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-17 14:49:15,613 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant with AI power.
+2025-08-17 14:49:23,853 - NOAH_AI - INFO - Response: Say 'tell me about' any topic, or try 'search', 'YouTube', or 'help' for commands!
+2025-08-17 14:49:50,315 - NOAH_AI - INFO - User input (voice): please live
+2025-08-17 14:49:50,316 - NOAH_AI - INFO - Processing command: please live
+2025-08-17 14:49:50,317 - NOAH_AI - INFO - Response: Sorry, I didn't catch that. Ask me to search something or say 'help' for commands.
+2025-08-17 14:50:05,354 - NOAH_AI - INFO - User input (voice): open YouTube and search roll
+2025-08-17 14:50:05,355 - NOAH_AI - INFO - Processing command: open youtube and search roll
+2025-08-17 14:50:05,355 - NOAH_AI - INFO - Opening youtube search for: open  and  roll
+2025-08-17 14:50:05,507 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-17 14:50:05,508 - NOAH_AI - INFO - Response: Opening youtube and searching for open  and  roll
+2025-08-17 14:50:14,206 - NOAH_AI - INFO - User input (voice): YouTube khol
+2025-08-17 14:50:14,207 - NOAH_AI - INFO - Processing command: youtube khol
+2025-08-17 14:50:14,207 - NOAH_AI - INFO - Opening youtube search for: khol
+2025-08-17 14:50:14,248 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-17 14:50:14,253 - NOAH_AI - INFO - Response: Opening youtube and searching for khol
+2025-08-17 14:50:42,049 - NOAH_AI - INFO - User input (voice): what is machine learning
+2025-08-17 14:50:42,050 - NOAH_AI - INFO - Processing command: what is machine learning
+2025-08-17 14:50:42,051 - NOAH_AI - INFO - Generating information about: machine learning
+2025-08-17 14:50:42,051 - NOAH_AI - INFO - Response: Let me load my AI knowledge base first...
+2025-08-17 14:50:46,617 - NOAH_AI - INFO - Response: Loading AI model for knowledge queries. This may take a moment...
+2025-08-17 14:50:54,271 - NOAH_AI - INFO - Loading gpt2 model...
+2025-08-17 14:50:56,697 - NOAH_AI - INFO - Response: gpt2 model loaded successfully!
+2025-08-17 14:51:01,495 - NOAH_AI - INFO - gpt2 model loaded successfully
+2025-08-17 14:51:01,496 - NOAH_AI - INFO - Response: Let me use AI to generate detailed information about machine learning...
+2025-08-17 14:51:08,535 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-17 14:51:46,680 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-17 14:51:46,680 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-17 14:52:20,573 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-17 14:52:20,573 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-17 14:52:22,248 - NOAH_AI - WARNING - Wikipedia supplement error: Page id "machine ;earning" does not match any pages. Try another id!
+2025-08-17 14:52:22,249 - NOAH_AI - INFO - AI information generated successfully
+2025-08-17 14:52:22,251 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Info_machine_learning_20250817_145222.txt
+2025-08-17 14:52:22,313 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-17 14:52:22,314 - NOAH_AI - INFO - Response: I've used AI to generate detailed information about machine learning and saved it to your text editor.
+2025-08-17 14:53:44,454 - NOAH_AI - INFO - User input (voice): open YouTube
+2025-08-17 14:53:44,454 - NOAH_AI - INFO - Processing command: open youtube
+2025-08-17 14:53:44,455 - NOAH_AI - INFO - Opening youtube search for: open
+2025-08-17 14:53:44,494 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-17 14:53:44,495 - NOAH_AI - INFO - Response: Opening youtube and searching for open
+2025-08-17 14:53:52,777 - NOAH_AI - INFO - User input (voice): open calculator
+2025-08-17 14:53:52,778 - NOAH_AI - INFO - Processing command: open calculator
+2025-08-17 14:53:52,800 - NOAH_AI - INFO - Response: Opening calc
+2025-08-17 14:53:55,787 - NOAH_AI - INFO - Opened calc
+2025-08-17 14:54:04,128 - NOAH_AI - INFO - User input (voice): open open camera
+2025-08-17 14:54:04,129 - NOAH_AI - INFO - Processing command: open open camera
+2025-08-17 14:54:04,129 - NOAH_AI - INFO - Response: Opening camera. Press Q to close.
+2025-08-17 14:54:16,508 - NOAH_AI - INFO - Camera opened - Press Q to close
+2025-08-17 14:54:22,143 - NOAH_AI - INFO - Camera closed
+2025-08-17 14:54:22,146 - NOAH_AI - INFO - Response: Camera closed
+2025-08-17 14:54:31,320 - NOAH_AI - INFO - User input (voice): can you tell me about India
+2025-08-17 14:54:31,321 - NOAH_AI - INFO - Processing command: can you tell me about india
+2025-08-17 14:54:31,322 - NOAH_AI - INFO - Generating information about: india
+2025-08-17 14:54:31,323 - NOAH_AI - INFO - Response: Let me use AI to generate detailed information about india...
+2025-08-17 14:54:37,769 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-17 14:55:09,724 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-17 14:55:09,725 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-17 14:55:31,324 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-17 14:55:31,324 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-17 14:55:34,363 - NOAH_AI - WARNING - Wikipedia supplement error: "indian" may refer to: 
+India
+Indian people
+Indian diaspora
+Languages of India
+Indian English
+Indian cuisine
+Indigenous peoples of the Americas
+First Nations in Canada
+Native Americans in the United States
+Indigenous peoples of the Caribbean
+Indigenous languages of the Americas
+Indian, West Virginia
+The Indians
+Indian (film series)
+Indian (1996 film)
+Indian (2001 film)
+Indians (musician)
+unreleased song by Basshunter
+"Indian" (song)
+"Indians" (song)
+The Link
+Indian (card game)
+Indian soap opera
+Indians (play)
+Indians (sculpture)
+Akwesasne Indians
+Cleveland Guardians
+Frölunda HC
+Hannover Indians
+Indianapolis Indians
+Indios de Mayagüez
+Springfield Indians
+Indian Airlines
+Indian Motorcycle
+All pages with titles beginning with Indian
+All pages with titles containing Indian
+Hindustani (disambiguation)
+India (disambiguation)
+Indianism (disambiguation)
+Indien (disambiguation)
+Indo (disambiguation)
+Indio (disambiguation)
+Indus (disambiguation)
+Indies (disambiguation)
+Indiana (disambiguation)
+Indian Raj (disambiguation)
+Indian Creek (disambiguation)
+Indian Island (disambiguation)
+Indian Peak
+Indian Point (disambiguation)
+Indian River (disambiguation)
+Indian Run (disambiguation)
+Indian Ocean
+Indian subcontinent
+American Indians (disambiguation)
+Classification of the Indigenous peoples of the Americas
+Ethnic groups in South Asia
+Native American name controversy
+2025-08-17 14:55:34,365 - NOAH_AI - INFO - AI information generated successfully
+2025-08-17 14:55:34,367 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Info_india_20250817_145534.txt
+2025-08-17 14:55:34,431 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-17 14:55:34,433 - NOAH_AI - INFO - Response: I've used AI to generate detailed information about india and saved it to your text editor.
+2025-08-17 14:55:57,318 - NOAH_AI - INFO - User input (voice): weather at Surat
+2025-08-17 14:55:57,319 - NOAH_AI - INFO - Processing command: weather at surat
+2025-08-17 14:55:57,661 - NOAH_AI - INFO - Response: Weather in Mumbai: Mumbai: 🌦   +27°C
+2025-08-17 14:56:35,109 - NOAH_AI - INFO - User input (voice): text mod
+2025-08-17 14:56:35,110 - NOAH_AI - INFO - Processing command: text mod
+2025-08-17 14:56:36,597 - NOAH_AI - INFO - Response: AI-based combat (but not necessarily in the same way)
+2025-08-17 14:57:09,904 - NOAH_AI - INFO - User input (voice): system information
+2025-08-17 14:57:09,905 - NOAH_AI - INFO - Processing command: system information
+2025-08-17 14:57:10,918 - NOAH_AI - INFO - Response: System Status: CPU usage is 11.8%, Memory usage is 82.8%, Disk usage is 2.7%, Battery is at 68%
+2025-08-20 18:14:36,268 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-20 18:14:37,059 - NOAH_AI - DEBUG - Text-to-speech engine configured
+2025-08-20 18:14:37,059 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-20 18:14:37,665 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-20 18:14:37,666 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-20 18:14:38,839 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-20 18:14:38,856 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant with AI power.
+2025-08-20 18:14:47,014 - NOAH_AI - INFO - Response: Say 'tell me about' any topic, or try 'search', 'YouTube', or 'help' for commands!
+2025-08-20 18:15:00,513 - NOAH_AI - INFO - User input (voice): current
+2025-08-20 18:15:00,514 - NOAH_AI - INFO - Processing command: current
+2025-08-20 18:15:00,514 - NOAH_AI - INFO - Response: Sorry, I didn't catch that. Ask me to search something or say 'help' for commands.
+2025-08-20 18:15:14,499 - NOAH_AI - INFO - User input (voice): what is current news
+2025-08-20 18:15:14,499 - NOAH_AI - INFO - Processing command: what is current news
+2025-08-20 18:15:14,500 - NOAH_AI - INFO - Generating information about: current news
+2025-08-20 18:15:14,501 - NOAH_AI - INFO - Response: Let me load my AI knowledge base first...
+2025-08-20 18:15:19,192 - NOAH_AI - INFO - Response: Loading AI model for knowledge queries. This may take a moment...
+2025-08-20 18:15:26,728 - NOAH_AI - INFO - Loading gpt2 model...
+2025-08-20 18:15:30,747 - NOAH_AI - INFO - Response: gpt2 model loaded successfully!
+2025-08-20 18:15:35,680 - NOAH_AI - INFO - gpt2 model loaded successfully
+2025-08-20 18:15:35,682 - NOAH_AI - INFO - Response: Let me use AI to generate detailed information about current news...
+2025-08-20 18:15:42,850 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-20 18:16:06,718 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-20 18:16:06,718 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-20 18:16:33,878 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-20 18:16:33,878 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-20 18:16:36,118 - NOAH_AI - WARNING - Wikipedia supplement error: Page id "current new" does not match any pages. Try another id!
+2025-08-20 18:16:36,118 - NOAH_AI - INFO - AI information generated successfully
+2025-08-20 18:16:36,130 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Info_current_news_20250820_181636.txt
+2025-08-20 18:16:36,308 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-20 18:16:36,309 - NOAH_AI - INFO - Response: I've used AI to generate detailed information about current news and saved it to your text editor.
+2025-08-20 18:17:02,483 - NOAH_AI - INFO - User input (voice): I believe that there are many different types of Territory of petrol
+2025-08-20 18:17:02,484 - NOAH_AI - INFO - Processing command: i believe that there are many different types of territory of petrol
+2025-08-20 18:17:07,168 - NOAH_AI - INFO - Response: the oil can be used in other ways, like transport it to another location etc..the AI is a very complex system and we will learn more about this as tim...
+2025-08-20 18:17:29,133 - NOAH_AI - INFO - User input (voice): Nova YouTube zone
+2025-08-20 18:17:29,133 - NOAH_AI - INFO - Processing command: nova youtube zone
+2025-08-20 18:17:29,134 - NOAH_AI - INFO - Opening youtube search for: nova  ze
+2025-08-20 18:17:29,299 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-20 18:17:29,299 - NOAH_AI - INFO - Response: Opening youtube and searching for nova  ze
+2025-08-20 18:17:39,605 - NOAH_AI - INFO - User input (voice): YouTube Dhol
+2025-08-20 18:17:39,605 - NOAH_AI - INFO - Processing command: youtube dhol
+2025-08-20 18:17:39,606 - NOAH_AI - INFO - Opening youtube search for: dhol
+2025-08-20 18:17:39,660 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-20 18:17:39,661 - NOAH_AI - INFO - Response: Opening youtube and searching for dhol
+2025-08-20 18:17:49,636 - NOAH_AI - INFO - User input (voice): Google arijeet Singh
+2025-08-20 18:17:49,637 - NOAH_AI - INFO - Processing command: google arijeet singh
+2025-08-20 18:18:16,035 - NOAH_AI - INFO - Response: yum-ruhi koi chirayam sekhaan jyoti? (What is your name?) Human 2.0: hai to hua, bahut ke liye saath ki baat mein ? Man: hi nahi lenge paaniya peen tu...
+2025-08-20 18:18:43,631 - NOAH_AI - INFO - User input (voice): open Google and search Arijit Singh
+2025-08-20 18:18:43,632 - NOAH_AI - INFO - Processing command: open google and search arijit singh
+2025-08-20 18:18:43,632 - NOAH_AI - INFO - Opening google search for: open google and  arijit singh
+2025-08-20 18:18:43,673 - NOAH_AI - DEBUG - Opened google using webbrowser module
+2025-08-20 18:18:43,674 - NOAH_AI - INFO - Response: Opening google and searching for open google and  arijit singh
+2025-08-20 18:18:58,650 - NOAH_AI - INFO - User input (voice): put my system information
+2025-08-20 18:18:58,651 - NOAH_AI - INFO - Processing command: put my system information
+2025-08-20 18:18:59,656 - NOAH_AI - INFO - Response: System Status: CPU usage is 18.0%, Memory usage is 86.8%, Disk usage is 2.7%, Battery is at 57%
+2025-08-20 18:19:36,796 - NOAH_AI - INFO - User input (voice): Ham aapko Dekho
+2025-08-20 18:19:36,797 - NOAH_AI - INFO - Processing command: ham aapko dekho
+2025-08-20 18:19:52,284 - NOAH_AI - INFO - Response: What is this? Human-to human interaction. AI can understand and interact with humans, but the technology isn't as advanced yet for interacting directl...
+2025-08-20 18:20:12,527 - NOAH_AI - INFO - User input (voice): exit
+2025-08-20 18:20:12,528 - NOAH_AI - INFO - Processing command: exit
+2025-08-20 18:20:12,529 - NOAH_AI - INFO - Response: Goodbye Rudra! It was great helping you today!
+2025-08-20 18:20:18,594 - NOAH_AI - INFO - NOAH AI Assistant session ended by user
+2025-08-20 18:53:06,740 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-20 18:53:07,225 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-20 18:53:07,225 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-20 18:53:07,477 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-20 18:53:07,478 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-20 18:53:08,668 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-20 18:53:08,669 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant powered by Google Gemini from config.
+2025-08-20 18:53:18,658 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'load ai model' to get started!
+2025-08-20 18:53:32,461 - NOAH_AI - INFO - User input (voice): load AI model
+2025-08-20 18:53:32,462 - NOAH_AI - INFO - Processing command: load ai model
+2025-08-20 18:53:32,463 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-20 18:53:38,432 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-20 18:53:38,433 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-20 18:53:48,297 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-20 18:53:55,693 - NOAH_AI - INFO - User input (voice): tell me about machine learning
+2025-08-20 18:53:55,694 - NOAH_AI - INFO - Processing command: tell me about machine learning
+2025-08-20 18:53:55,695 - NOAH_AI - INFO - Generating information about: machine learning
+2025-08-20 18:53:55,696 - NOAH_AI - INFO - Response: Let me use advanced AI to generate detailed information about machine learning...
+2025-08-20 18:54:03,514 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-20 18:54:06,513 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-20 18:54:06,514 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-20 18:54:09,231 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-20 18:54:09,232 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-20 18:54:11,368 - NOAH_AI - WARNING - Wikipedia supplement error: Page id "machine ;earning" does not match any pages. Try another id!
+2025-08-20 18:54:11,369 - NOAH_AI - INFO - AI information generated successfully
+2025-08-20 18:54:11,371 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Gemini_Info_machine_learning_20250820_185411.txt
+2025-08-20 18:54:11,440 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-20 18:54:11,440 - NOAH_AI - INFO - Response: I've used advanced Gemini AI to generate detailed information about machine learning and saved it to your text editor.
+2025-08-20 18:54:33,695 - NOAH_AI - INFO - User input (voice): weather at Surat
+2025-08-20 18:54:33,696 - NOAH_AI - INFO - Processing command: weather at surat
+2025-08-20 18:54:34,824 - NOAH_AI - INFO - Response: Weather in Mumbai: Mumbai: 🌦   +27°C
+2025-08-20 18:54:48,741 - NOAH_AI - INFO - User input (voice): upi status
+2025-08-20 18:54:48,742 - NOAH_AI - INFO - Processing command: upi status
+2025-08-20 18:54:50,895 - NOAH_AI - INFO - Response: Hi there!  To help me check your UPI payment status, I need a little more information.  Could you please tell me:
+
+* **The UPI ID you used for the transaction:** (e.g.,  `9876543210@paytm` or `abc@upi... Would you like me to elaborate on any part?
+2025-08-20 18:55:21,976 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-20 18:55:22,301 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-20 18:55:22,301 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-20 18:55:22,476 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-20 18:55:22,477 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-20 18:55:23,621 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-20 18:55:23,622 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant powered by Google Gemini from config.
+2025-08-20 18:55:33,640 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'load ai model' to get started!
+2025-08-20 18:55:56,023 - NOAH_AI - INFO - User input (voice): conflict status
+2025-08-20 18:55:56,023 - NOAH_AI - INFO - Processing command: conflict status
+2025-08-20 18:55:56,024 - NOAH_AI - INFO - Response: I'm not sure what you mean. Check config.py for your API key or try basic commands like 'help'.
+2025-08-20 18:56:11,112 - NOAH_AI - INFO - User input (voice): config status
+2025-08-20 18:56:11,112 - NOAH_AI - INFO - Processing command: config status
+2025-08-20 18:56:11,113 - NOAH_AI - INFO - Response: Configuration status: ✅ API key configured in config.py. Model: No model loaded
+2025-08-20 18:56:28,929 - NOAH_AI - INFO - User input (voice): load AI model
+2025-08-20 18:56:28,929 - NOAH_AI - INFO - Processing command: load ai model
+2025-08-20 18:56:28,930 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-20 18:56:34,847 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-20 18:56:34,850 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-20 18:56:44,629 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-20 18:56:50,495 - NOAH_AI - INFO - User input (voice): search
+2025-08-20 18:56:50,496 - NOAH_AI - INFO - Processing command: search
+2025-08-20 18:56:51,927 - NOAH_AI - INFO - Response: Okay, I'm ready to help!  To give you the best search results, I need a little more information.  What are you looking for?  Please tell me your search query.
+2025-08-20 18:58:03,609 - NOAH_AI - INFO - User input (voice): YouTube chol
+2025-08-20 18:58:03,610 - NOAH_AI - INFO - Processing command: youtube chol
+2025-08-20 18:58:05,235 - NOAH_AI - INFO - Response: Hi there!  "Youtube chol" isn't quite clear to me.  Could you clarify what you're looking for?  Are you trying to:
+
+* **Find videos about chol (perhaps a misspelling)?**  If so, could you tell me what... Would you like me to elaborate on any part?
+2025-08-20 18:58:44,727 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-20 18:58:45,129 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-20 18:58:45,129 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-20 18:58:45,541 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-20 18:58:45,542 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-20 18:58:46,673 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-20 18:58:46,676 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant powered by Google Gemini from config.
+2025-08-20 18:58:56,964 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'load ai model' to get started!
+2025-08-20 18:59:14,272 - NOAH_AI - INFO - User input (voice): open YouTube and search jhol
+2025-08-20 18:59:14,273 - NOAH_AI - INFO - Processing command: open youtube and search jhol
+2025-08-20 18:59:14,275 - NOAH_AI - INFO - Response: I didn't understand that command. Say 'load ai model' to enable advanced AI responses!
+2025-08-20 18:59:42,531 - NOAH_AI - INFO - User input (voice): Arijit Singh in Wikipedia
+2025-08-20 18:59:42,532 - NOAH_AI - INFO - Processing command: arijit singh in wikipedia
+2025-08-20 18:59:42,532 - NOAH_AI - INFO - Opening wikipedia search for: arijit singh in
+2025-08-20 18:59:42,725 - NOAH_AI - DEBUG - Opened wikipedia using webbrowser module
+2025-08-20 18:59:42,726 - NOAH_AI - INFO - Response: Opening wikipedia and searching for arijit singh in
+2025-08-20 18:59:55,978 - NOAH_AI - INFO - User input (voice): YouTube roll
+2025-08-20 18:59:55,978 - NOAH_AI - INFO - Processing command: youtube roll
+2025-08-20 18:59:55,979 - NOAH_AI - INFO - Response: I didn't understand that command. Say 'load ai model' to enable advanced AI responses!
+2025-08-20 19:00:09,366 - NOAH_AI - INFO - User input (voice): open YouTube
+2025-08-20 19:00:09,366 - NOAH_AI - INFO - Processing command: open youtube
+2025-08-20 19:00:09,367 - NOAH_AI - INFO - Response: I'm not sure what you mean. Check config.py for your API key or try basic commands like 'help'.
+2025-08-20 19:01:20,917 - NOAH_AI - INFO - User input (voice): tell me about artificial Intel
+2025-08-20 19:01:20,918 - NOAH_AI - INFO - Processing command: tell me about artificial intel
+2025-08-20 19:01:20,919 - NOAH_AI - INFO - Generating information about: artificial intel
+2025-08-20 19:01:20,920 - NOAH_AI - INFO - Response: Let me load my advanced AI knowledge base first...
+2025-08-20 19:01:26,191 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-20 19:01:32,149 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-20 19:01:32,151 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-20 19:01:41,993 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-20 19:01:41,994 - NOAH_AI - INFO - Response: Let me use advanced AI to generate detailed information about artificial intel...
+2025-08-20 19:01:49,988 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-20 19:01:52,607 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-20 19:01:52,607 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-20 19:01:53,607 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-20 19:01:53,608 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-20 19:01:58,006 - NOAH_AI - INFO - AI information generated successfully
+2025-08-20 19:01:58,019 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Gemini_Info_artificial_intel_20250820_190158.txt
+2025-08-20 19:01:58,145 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-20 19:01:58,146 - NOAH_AI - INFO - Response: I've used advanced Gemini AI to generate detailed information about artificial intel and saved it to your text editor.
+2025-08-20 19:02:29,924 - NOAH_AI - INFO - User input (voice): open YouTube
+2025-08-20 19:02:29,924 - NOAH_AI - INFO - Processing command: open youtube
+2025-08-20 19:02:30,949 - NOAH_AI - INFO - Response: I can't directly open YouTube for you. I'm a text-based AI and don't have the capability to interact with your computer's operating system in that way.  To open YouTube, you'll need to do it yourself ... Would you like me to elaborate on any part?
+2025-08-20 19:03:00,368 - NOAH_AI - INFO - User input (voice): can you make a diet plan for me
+2025-08-20 19:03:00,368 - NOAH_AI - INFO - Processing command: can you make a diet plan for me
+2025-08-20 19:03:01,329 - NOAH_AI - INFO - Response: Hi there! I'd love to help you create a diet plan, but to give you the best recommendations, I need a little more information.  I can't provide medical advice, so this plan will be for general wellnes... Would you like me to elaborate on any part?
+2025-08-20 19:03:32,938 - NOAH_AI - INFO - User input (voice): which is the best breakfast for Indians
+2025-08-20 19:03:32,939 - NOAH_AI - INFO - Processing command: which is the best breakfast for indians
+2025-08-20 19:03:32,940 - NOAH_AI - INFO - Response: Hi there! I'm NOAH, ready to assist you with intelligent AI-powered responses from Gemini.
+2025-08-20 19:03:48,029 - NOAH_AI - INFO - User input (voice): give me breakfast suggestion
+2025-08-20 19:03:48,030 - NOAH_AI - INFO - Processing command: give me breakfast suggestion
+2025-08-20 19:03:49,109 - NOAH_AI - INFO - Response: Good morning!  What kind of breakfast are you in the mood for?  To give you the best suggestion, I need a little more information.  Do you prefer something sweet, savory, quick, or something that requ... Would you like me to elaborate on any part?
+2025-08-20 19:04:37,548 - NOAH_AI - INFO - User input (voice): exit
+2025-08-20 19:04:37,548 - NOAH_AI - INFO - Processing command: exit
+2025-08-20 19:04:37,549 - NOAH_AI - INFO - Response: Goodbye Rudra! It was great helping you today with Google Gemini AI from config!
+2025-08-20 19:04:46,373 - NOAH_AI - INFO - NOAH AI Assistant session ended by user
+2025-08-20 19:04:58,667 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-20 19:04:58,951 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-20 19:04:58,951 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-20 19:04:59,357 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-20 19:04:59,358 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-20 19:05:00,475 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-20 19:05:00,478 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant powered by Google Gemini from config.
+2025-08-20 19:05:10,801 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'youtube music videos' for search!
+2025-08-20 19:05:31,662 - NOAH_AI - INFO - User input (voice): YouTube chol
+2025-08-20 19:05:31,663 - NOAH_AI - INFO - Processing command: youtube chol
+2025-08-20 19:05:31,663 - NOAH_AI - INFO - Opening youtube search for: chol
+2025-08-20 19:05:31,817 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-20 19:05:31,818 - NOAH_AI - INFO - Response: Opening youtube and searching for chol
+2025-08-20 19:05:43,018 - NOAH_AI - INFO - User input (voice): search Arijit Singh
+2025-08-20 19:05:43,019 - NOAH_AI - INFO - Processing command: search arijit singh
+2025-08-20 19:05:43,019 - NOAH_AI - INFO - Opening google search for: arijit singh
+2025-08-20 19:05:43,052 - NOAH_AI - DEBUG - Opened google using webbrowser module
+2025-08-20 19:05:43,053 - NOAH_AI - INFO - Response: Opening google and searching for arijit singh
+2025-08-20 19:05:53,195 - NOAH_AI - INFO - User input (voice): weather at Surat
+2025-08-20 19:05:53,196 - NOAH_AI - INFO - Processing command: weather at surat
+2025-08-20 19:05:53,791 - NOAH_AI - INFO - Response: Weather in Mumbai: Mumbai: 🌦   +27°C
+2025-08-20 19:06:18,606 - NOAH_AI - INFO - User input (voice): search laptop on Amazon
+2025-08-20 19:06:18,607 - NOAH_AI - INFO - Processing command: search laptop on amazon
+2025-08-20 19:06:18,608 - NOAH_AI - INFO - Opening amazon search for: laptop on
+2025-08-20 19:06:18,650 - NOAH_AI - DEBUG - Opened amazon using webbrowser module
+2025-08-20 19:06:18,651 - NOAH_AI - INFO - Response: Opening amazon and searching for laptop on
+2025-08-20 19:06:32,537 - NOAH_AI - INFO - User input (voice): good job
+2025-08-20 19:06:32,538 - NOAH_AI - INFO - Processing command: good job
+2025-08-20 19:06:32,539 - NOAH_AI - INFO - Response: Sorry, I didn't catch that. Make sure your API key is set in config.py, then try 'load ai model'.
+2025-08-20 19:06:51,487 - NOAH_AI - INFO - User input (voice): can you take a screenshot
+2025-08-20 19:06:51,488 - NOAH_AI - INFO - Processing command: can you take a screenshot
+2025-08-20 19:06:51,714 - NOAH_AI - INFO - Screenshot saved: screenshot_20250820_190651.png
+2025-08-20 19:06:51,715 - NOAH_AI - INFO - Response: Screenshot saved as screenshot_20250820_190651.png
+2025-08-20 19:07:09,600 - NOAH_AI - INFO - User input (voice): open camera
+2025-08-20 19:07:09,601 - NOAH_AI - INFO - Processing command: open camera
+2025-08-20 19:07:09,602 - NOAH_AI - INFO - Response: Opening camera. Press Q to close.
+2025-08-20 19:07:20,624 - NOAH_AI - INFO - Camera opened - Press Q to close
+2025-08-20 19:07:47,229 - NOAH_AI - INFO - Camera closed
+2025-08-20 19:07:47,230 - NOAH_AI - INFO - Response: Camera closed
+2025-08-20 19:07:57,310 - NOAH_AI - INFO - User input (voice): can you give me and suggestion for walk
+2025-08-20 19:07:57,310 - NOAH_AI - INFO - Processing command: can you give me and suggestion for walk
+2025-08-20 19:07:57,311 - NOAH_AI - INFO - Response: I'm not sure what you mean. Try searching: 'youtube music videos' or 'search python tutorials'.
+2025-08-20 19:08:17,013 - NOAH_AI - INFO - User input (voice): load a
+2025-08-20 19:08:17,014 - NOAH_AI - INFO - Processing command: load a
+2025-08-20 19:08:17,015 - NOAH_AI - INFO - Response: I didn't understand that command. Say 'load ai model' to enable advanced AI responses!
+2025-08-20 19:08:32,963 - NOAH_AI - INFO - User input (voice): Lodi model
+2025-08-20 19:08:32,963 - NOAH_AI - INFO - Processing command: lodi model
+2025-08-20 19:08:32,964 - NOAH_AI - INFO - Response: I'm not sure what you mean. Try searching: 'youtube music videos' or 'search python tutorials'.
+2025-08-20 19:08:49,074 - NOAH_AI - INFO - User input (voice): load AI model
+2025-08-20 19:08:49,075 - NOAH_AI - INFO - Processing command: load ai model
+2025-08-20 19:08:49,076 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-20 19:08:54,992 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-20 19:08:54,993 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-20 19:09:04,759 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-20 19:09:17,717 - NOAH_AI - INFO - User input (voice): can you suggest me and diet plan
+2025-08-20 19:09:17,718 - NOAH_AI - INFO - Processing command: can you suggest me and diet plan
+2025-08-20 19:09:19,156 - NOAH_AI - INFO - Response: Hi there!  I can definitely help you brainstorm a diet plan, but I'm not a medical professional, so this isn't a replacement for advice from a doctor or registered dietitian.  To give you the best sug... Would you like me to elaborate on any part?
+2025-08-25 10:04:43,157 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-25 10:04:43,941 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-25 10:04:43,941 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-25 10:04:44,220 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-25 10:04:44,221 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-25 10:04:45,376 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-25 10:04:45,380 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant powered by Google Gemini from config.
+2025-08-25 10:04:55,546 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'youtube music videos' for search!
+2025-08-25 10:05:30,958 - NOAH_AI - INFO - User input (voice): how AI can help at night
+2025-08-25 10:05:30,959 - NOAH_AI - INFO - Processing command: how ai can help at night
+2025-08-25 10:05:30,959 - NOAH_AI - INFO - Response: I can help you with many things! Here are some examples:
+
+AI Features (Powered by Google Gemini from config.py):
+• Say 'tell me about Python' for detailed AI-generated information
+• Ask any question for intelligent responses
+• Have natural conversations with advanced AI
+
+Configuration Commands:
+• Say 'config status' to check API key status
+• Say 'load ai model' to initialize Gemini
+
+🔍 WEB SEARCH FEATURES:
+• Say 'search machine learning' - Google search
+• Say 'youtube python tutorials' - YouTube search  
+• Say 'search python on github' - GitHub search
+• Say 'search laptop on amazon' - Amazon search
+• Say 'search einstein on wikipedia' - Wikipedia search
+
+System Features:
+• Ask for time, date, or weather updates (default city: Surat)
+• Request screenshots or camera access
+• Get system performance information
+
+Other Commands:
+• Tell jokes and get entertainment
+• Say 'text mode' to switch input methods
+• Say 'exit' when you're done
+
+Note: All AI responses are powered by Google Gemini with settings from config.py!
+2025-08-25 10:06:21,036 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-25 10:06:21,378 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-25 10:06:21,378 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-25 10:06:21,850 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-25 10:06:21,852 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-25 10:06:23,011 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-25 10:06:23,015 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant powered by Google Gemini from config.
+2025-08-25 10:06:33,258 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'youtube music videos' for search!
+2025-08-25 10:06:48,561 - NOAH_AI - INFO - User input (voice): tell me about machine learning
+2025-08-25 10:06:48,561 - NOAH_AI - INFO - Processing command: tell me about machine learning
+2025-08-25 10:06:48,562 - NOAH_AI - INFO - Generating information about: machine learning
+2025-08-25 10:06:48,563 - NOAH_AI - INFO - Response: Let me load my advanced AI knowledge base first...
+2025-08-25 10:06:53,960 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-25 10:06:59,811 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-25 10:06:59,814 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-25 10:07:09,579 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-25 10:07:09,580 - NOAH_AI - INFO - Response: Let me use advanced AI to generate detailed information about machine learning...
+2025-08-25 10:07:17,287 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-25 10:07:21,163 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-25 10:07:21,164 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-25 10:07:22,296 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-25 10:07:22,296 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-25 10:07:26,460 - NOAH_AI - WARNING - Wikipedia supplement error: Page id "machine ;earning" does not match any pages. Try another id!
+2025-08-25 10:07:26,460 - NOAH_AI - INFO - AI information generated successfully
+2025-08-25 10:07:26,472 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Gemini_Info_machine_learning_20250825_100726.txt
+2025-08-25 10:07:26,626 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-25 10:07:26,626 - NOAH_AI - INFO - Response: I've used advanced Gemini AI to generate detailed information about machine learning and saved it to your text editor.
+2025-08-25 10:07:54,146 - NOAH_AI - INFO - User input (voice): exit
+2025-08-25 10:07:54,146 - NOAH_AI - INFO - Processing command: exit
+2025-08-25 10:07:54,148 - NOAH_AI - INFO - Response: Goodbye Rudra! It was great helping you today with Google Gemini AI from config!
+2025-08-25 10:08:03,176 - NOAH_AI - INFO - NOAH AI Assistant session ended by user
+2025-08-27 19:42:29,435 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-27 19:42:29,790 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-27 19:42:29,790 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-27 19:42:30,145 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-27 19:42:30,146 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-27 19:42:31,218 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-27 19:42:31,220 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your advanced AI assistant powered by Google Gemini from config.
+2025-08-27 19:42:41,064 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'youtube music videos' for search!
+2025-08-27 19:42:58,578 - NOAH_AI - INFO - User input (voice): can you suggest me a diet plan for my breakfast
+2025-08-27 19:42:58,579 - NOAH_AI - INFO - Processing command: can you suggest me a diet plan for my breakfast
+2025-08-27 19:42:58,580 - NOAH_AI - INFO - Response: I'm not sure what you mean. Try searching: 'youtube music videos' or 'search python tutorials'.
+2025-08-27 19:43:17,432 - NOAH_AI - INFO - User input (voice): can you tell me about a diet plan for my breakfast
+2025-08-27 19:43:17,433 - NOAH_AI - INFO - Processing command: can you tell me about a diet plan for my breakfast
+2025-08-27 19:43:17,433 - NOAH_AI - INFO - Generating information about: a diet plan for my breakfast
+2025-08-27 19:43:17,434 - NOAH_AI - INFO - Response: Let me load my advanced AI knowledge base first...
+2025-08-27 19:43:22,597 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-27 19:43:28,360 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-27 19:43:28,363 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-27 19:43:38,053 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-27 19:43:38,055 - NOAH_AI - INFO - Response: Let me use advanced AI to generate detailed information about a diet plan for my breakfast...
+2025-08-27 19:43:47,037 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-27 19:43:51,560 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-27 19:43:51,560 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-27 19:43:53,123 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-27 19:43:53,123 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-27 19:43:56,065 - NOAH_AI - INFO - AI information generated successfully
+2025-08-27 19:43:56,067 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Gemini_Info_a_diet_plan_for_my_breakfast_20250827_194356.txt
+2025-08-27 19:43:56,197 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-27 19:43:56,198 - NOAH_AI - INFO - Response: I've used advanced Gemini AI to generate detailed information about a diet plan for my breakfast and saved it to your text editor.
+2025-08-27 19:44:24,570 - NOAH_AI - INFO - User input (voice): which is the president of
+2025-08-27 19:44:24,570 - NOAH_AI - INFO - Processing command: which is the president of
+2025-08-27 19:44:24,571 - NOAH_AI - INFO - Response: Hi there! I'm NOAH, ready to assist you with intelligent AI-powered responses from Gemini.
+2025-08-27 19:44:40,805 - NOAH_AI - INFO - User input (voice): who is the president of Canada
+2025-08-27 19:44:40,816 - NOAH_AI - INFO - Processing command: who is the president of canada
+2025-08-27 19:44:41,759 - NOAH_AI - INFO - Response: The current president of Canada is Justin Trudeau.  He assumed office in 2015.  Canada has a Prime Minister, not a President.
+2025-08-27 19:45:06,561 - NOAH_AI - INFO - User input (voice): why itraconazole is used in fungal in
+2025-08-27 19:45:06,562 - NOAH_AI - INFO - Processing command: why itraconazole is used in fungal in
+2025-08-27 19:45:07,527 - NOAH_AI - INFO - Response: Itraconazole treats fungal infections.  It works by inhibiting fungal cell growth.  Specific uses include treating histoplasmosis, blastomycosis, and aspergillosis.
+2025-08-27 19:45:31,437 - NOAH_AI - INFO - User input (voice): exit
+2025-08-27 19:45:31,438 - NOAH_AI - INFO - Processing command: exit
+2025-08-27 19:45:31,438 - NOAH_AI - INFO - Response: Goodbye Rudra! It was great helping you today with Google Gemini AI from config!
+2025-08-27 19:45:40,146 - NOAH_AI - INFO - NOAH AI Assistant session ended by user
+2025-08-27 19:53:22,440 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-27 19:53:22,792 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-27 19:53:22,792 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-27 19:53:22,966 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-27 19:53:22,968 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-27 19:53:24,162 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-27 19:53:24,166 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your intelligent assistant.
+2025-08-27 19:53:30,809 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'youtube music videos' for search!
+2025-08-27 19:53:47,314 - NOAH_AI - INFO - User input (voice): YouTube Dhol
+2025-08-27 19:53:47,315 - NOAH_AI - INFO - Processing command: youtube dhol
+2025-08-27 19:53:47,315 - NOAH_AI - INFO - Opening youtube search for: dhol
+2025-08-27 19:53:47,478 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-27 19:53:47,479 - NOAH_AI - INFO - Response: Opening youtube and searching for dhol
+2025-08-27 19:53:59,435 - NOAH_AI - INFO - User input (voice): open Amazon and search for laptop
+2025-08-27 19:53:59,436 - NOAH_AI - INFO - Processing command: open amazon and search for laptop
+2025-08-27 19:53:59,436 - NOAH_AI - INFO - Opening amazon search for: open  and  for laptop
+2025-08-27 19:53:59,488 - NOAH_AI - DEBUG - Opened amazon using webbrowser module
+2025-08-27 19:53:59,490 - NOAH_AI - INFO - Response: Opening amazon and searching for open  and  for laptop
+2025-08-27 19:54:07,741 - NOAH_AI - INFO - User input (voice): laptop
+2025-08-27 19:54:07,742 - NOAH_AI - INFO - Processing command: laptop
+2025-08-27 19:54:07,744 - NOAH_AI - INFO - Response: Sorry, I didn't catch that. Make sure your API key is set in config.py, then try 'load ai model'.
+2025-08-27 19:54:26,753 - NOAH_AI - INFO - User input (voice): which laptop is best for Gam
+2025-08-27 19:54:26,754 - NOAH_AI - INFO - Processing command: which laptop is best for gam
+2025-08-27 19:54:26,755 - NOAH_AI - INFO - Response: Greetings Rudra! What can I do for you today?
+2025-08-27 19:54:45,720 - NOAH_AI - INFO - User input (voice): which laptop is best for gaming
+2025-08-27 19:54:45,720 - NOAH_AI - INFO - Processing command: which laptop is best for gaming
+2025-08-27 19:54:45,721 - NOAH_AI - INFO - Response: Greetings Rudra! What can I do for you today?
+2025-08-27 19:54:57,482 - NOAH_AI - INFO - User input (voice): who is the Prime Minister of India
+2025-08-27 19:54:57,483 - NOAH_AI - INFO - Processing command: who is the prime minister of india
+2025-08-27 19:54:57,485 - NOAH_AI - INFO - Response: I'm not sure what you mean. Try searching: 'youtube music videos' or 'search python tutorials'.
+2025-08-27 19:55:21,355 - NOAH_AI - INFO - User input (voice): tell me about best laptop for gaming
+2025-08-27 19:55:21,355 - NOAH_AI - INFO - Processing command: tell me about best laptop for gaming
+2025-08-27 19:55:21,356 - NOAH_AI - INFO - Generating information about: best laptop for gaming
+2025-08-27 19:55:21,357 - NOAH_AI - INFO - Response: Let me load my advanced AI knowledge base first...
+2025-08-27 19:55:26,612 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-27 19:55:32,487 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-27 19:55:32,490 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-27 19:55:42,274 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-27 19:55:42,276 - NOAH_AI - INFO - Response: Let me use advanced AI to generate detailed information about best laptop for gaming...
+2025-08-27 19:55:50,783 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-27 19:55:52,274 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-27 19:55:52,274 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-27 19:55:53,906 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-27 19:55:53,907 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-27 19:55:55,719 - NOAH_AI - WARNING - Wikipedia supplement error: Page id "bert laxton for gaming" does not match any pages. Try another id!
+2025-08-27 19:55:55,720 - NOAH_AI - INFO - AI information generated successfully
+2025-08-27 19:55:55,722 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Gemini_Info_best_laptop_for_gaming_20250827_195555.txt
+2025-08-27 19:55:55,792 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-27 19:55:55,793 - NOAH_AI - INFO - Response: I've used advanced Gemini AI to generate detailed information about best laptop for gaming and saved it to your text editor.
+2025-08-27 19:56:15,615 - NOAH_AI - INFO - User input (voice): who is the Prime Minister of India
+2025-08-27 19:56:15,616 - NOAH_AI - INFO - Processing command: who is the prime minister of india
+2025-08-27 19:56:17,472 - NOAH_AI - INFO - Response: Narendra Modi is the current Prime Minister of India.  He leads the Bharatiya Janata Party (BJP).  His term began in 2014.
+2025-08-27 19:56:41,597 - NOAH_AI - INFO - User input (voice): information
+2025-08-27 19:56:41,597 - NOAH_AI - INFO - Processing command: information
+2025-08-27 19:56:42,456 - NOAH_AI - INFO - Response: What information do you need?  Please be specific.  I need a question to provide information.
+2025-08-27 19:57:01,607 - NOAH_AI - INFO - User input (voice): give me system information
+2025-08-27 19:57:01,608 - NOAH_AI - INFO - Processing command: give me system information
+2025-08-27 19:57:02,622 - NOAH_AI - INFO - Response: System Status: CPU usage is 11.1%, Memory usage is 66.8%, Disk usage is 4.3%, Battery is at 96%
+2025-08-27 19:57:27,060 - NOAH_AI - INFO - User input (voice): weather in Surat
+2025-08-27 19:57:27,061 - NOAH_AI - INFO - Processing command: weather in surat
+2025-08-27 19:57:29,556 - NOAH_AI - INFO - Response: Weather in surat: surat: 🌦   +27°C
+2025-08-27 19:57:47,530 - NOAH_AI - INFO - User input (voice): current time
+2025-08-27 19:57:47,531 - NOAH_AI - INFO - Processing command: current time
+2025-08-27 19:57:47,532 - NOAH_AI - INFO - Response: The current time is 07:57 PM
+2025-08-27 19:58:07,959 - NOAH_AI - INFO - User input (voice): hello
+2025-08-27 19:58:07,960 - NOAH_AI - INFO - Processing command: hello
+2025-08-27 19:58:07,961 - NOAH_AI - INFO - Response: Hello Rudra! How can I help you today?
+2025-08-27 19:58:23,628 - NOAH_AI - INFO - User input (voice): switch to text mode
+2025-08-27 19:58:23,629 - NOAH_AI - INFO - Processing command: switch to text mode
+2025-08-27 19:58:23,630 - NOAH_AI - INFO - Response: Switched to text input mode
+2025-08-27 19:58:45,170 - NOAH_AI - INFO - User input (text): youtube jhol
+2025-08-27 19:58:45,171 - NOAH_AI - INFO - Processing command: youtube jhol
+2025-08-27 19:58:45,172 - NOAH_AI - INFO - Opening youtube search for: jhol
+2025-08-27 19:58:45,221 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-27 19:58:45,222 - NOAH_AI - INFO - Response: Opening youtube and searching for jhol
+2025-08-27 19:58:57,559 - NOAH_AI - INFO - User input (text): amazon laptop
+2025-08-27 19:58:57,560 - NOAH_AI - INFO - Processing command: amazon laptop
+2025-08-27 19:58:58,412 - NOAH_AI - INFO - Response: Amazon sells many laptops from various brands.
+
+1.  Check Amazon's website.
+2.  Filter by brand, specs, and price.
+3.  Read reviews before purchasing.
+2025-08-27 19:59:50,934 - NOAH_AI - INFO - User input (text): open google and search arijit singh
+2025-08-27 19:59:50,935 - NOAH_AI - INFO - Processing command: open google and search arijit singh
+2025-08-27 19:59:50,935 - NOAH_AI - INFO - Opening google search for: open google and  arijit singh
+2025-08-27 19:59:50,978 - NOAH_AI - DEBUG - Opened google using webbrowser module
+2025-08-27 19:59:50,979 - NOAH_AI - INFO - Response: Opening google and searching for open google and  arijit singh
+2025-08-27 20:00:09,449 - NOAH_AI - INFO - User input (text): google arijit sinh
+2025-08-27 20:00:09,450 - NOAH_AI - INFO - Processing command: google arijit sinh
+2025-08-27 20:00:10,639 - NOAH_AI - INFO - Response: Here's what I found:
+
+* Arijit Singh is a popular Indian playback singer.
+* You can find his music on various platforms like YouTube, Spotify, and Apple Music.
+*  Search "Arijit Singh songs" on Google... Would you like me to elaborate on any part?
+2025-08-27 20:00:49,538 - NOAH_AI - INFO - User input (text): play any song of arijit singh
+2025-08-27 20:00:49,538 - NOAH_AI - INFO - Processing command: play any song of arijit singh
+2025-08-27 20:00:51,604 - NOAH_AI - INFO - Response: 1. Open your preferred music streaming service (Spotify, Apple Music, YouTube Music, etc.).
+2. Search for "Arijit Singh."
+3. Select any song from the results and play it.
+2025-08-27 20:01:14,369 - NOAH_AI - INFO - User input (text): play music
+2025-08-27 20:01:14,370 - NOAH_AI - INFO - Processing command: play music
+2025-08-27 20:01:15,462 - NOAH_AI - INFO - Response: 1. Open your music app.
+2. Select a playlist or song.
+3. Press play.
+2025-08-27 20:01:33,901 - NOAH_AI - INFO - User input (text): my name is chirag
+2025-08-27 20:01:33,901 - NOAH_AI - INFO - Processing command: my name is chirag
+2025-08-27 20:01:33,902 - NOAH_AI - INFO - Response: Greetings Rudra! What can I do for you today?
+2025-08-27 20:03:21,181 - NOAH_AI - INFO - User input (text): voice mode
+2025-08-27 20:03:21,181 - NOAH_AI - INFO - Processing command: voice mode
+2025-08-27 20:03:21,182 - NOAH_AI - INFO - Response: Switched to voice input mode
+2025-08-27 20:03:29,226 - NOAH_AI - INFO - User input (voice): exit
+2025-08-27 20:03:29,227 - NOAH_AI - INFO - Processing command: exit
+2025-08-27 20:03:29,229 - NOAH_AI - INFO - Response: Goodbye Rudra! It was great helping you today with Google Gemini AI from config!
+2025-08-27 20:03:38,107 - NOAH_AI - INFO - NOAH AI Assistant session ended by user
+2025-08-28 13:29:32,727 - NOAH_AI - INFO - NOAH AI Assistant initialization started
+2025-08-28 13:29:33,089 - NOAH_AI - DEBUG - Text-to-speech engine configured from config
+2025-08-28 13:29:33,089 - NOAH_AI - INFO - Text-to-speech engine initialized successfully
+2025-08-28 13:29:33,440 - NOAH_AI - INFO - Speech recognition initialized successfully
+2025-08-28 13:29:33,441 - NOAH_AI - INFO - User data loaded for Rudra
+2025-08-28 13:29:35,005 - NOAH_AI - INFO - Microphone calibrated for ambient noise
+2025-08-28 13:29:35,007 - NOAH_AI - INFO - Response: Hello Rudra! I'm NOAH, your intelligent assistant.
+2025-08-28 13:29:42,041 - NOAH_AI - INFO - Response: Say 'tell me about' any topic for intelligent responses, or try 'youtube music videos' for search!
+2025-08-28 13:29:57,054 - NOAH_AI - ERROR - Unexpected listening error: Expecting value: line 1 column 1 (char 0)
+2025-08-28 13:30:04,391 - NOAH_AI - ERROR - Unexpected listening error: Expecting value: line 1 column 1 (char 0)
+2025-08-28 13:30:18,143 - NOAH_AI - INFO - User input (voice): hello
+2025-08-28 13:30:18,144 - NOAH_AI - INFO - Processing command: hello
+2025-08-28 13:30:18,145 - NOAH_AI - INFO - Response: Greetings Rudra! What can I do for you today?
+2025-08-28 13:30:32,268 - NOAH_AI - INFO - User input (voice): tell me about machine learning
+2025-08-28 13:30:32,269 - NOAH_AI - INFO - Processing command: tell me about machine learning
+2025-08-28 13:30:32,270 - NOAH_AI - INFO - Generating information about: machine learning
+2025-08-28 13:30:32,272 - NOAH_AI - INFO - Response: Let me load my advanced AI knowledge base first...
+2025-08-28 13:30:37,715 - NOAH_AI - INFO - Response: Loading advanced Gemini AI model from configuration...
+2025-08-28 13:30:43,660 - NOAH_AI - INFO - Loading Gemini model from config...
+2025-08-28 13:30:43,664 - NOAH_AI - INFO - Response: Gemini AI model loaded successfully from config! I'm now powered by Google's advanced AI.
+2025-08-28 13:30:53,446 - NOAH_AI - INFO - Gemini model loaded successfully from config
+2025-08-28 13:30:53,447 - NOAH_AI - INFO - Response: Let me use advanced AI to generate detailed information about machine learning...
+2025-08-28 13:31:01,180 - NOAH_AI - DEBUG - AI generating section 1/2...
+2025-08-28 13:31:04,451 - NOAH_AI - DEBUG - AI generated section 1 successfully
+2025-08-28 13:31:04,451 - NOAH_AI - DEBUG - AI generating section 2/2...
+2025-08-28 13:31:05,916 - NOAH_AI - DEBUG - AI generated section 2 successfully
+2025-08-28 13:31:05,916 - NOAH_AI - DEBUG - Adding Wikipedia supplement...
+2025-08-28 13:31:13,656 - NOAH_AI - WARNING - Wikipedia supplement error: Page id "machine ;earning" does not match any pages. Try another id!
+2025-08-28 13:31:13,656 - NOAH_AI - INFO - AI information generated successfully
+2025-08-28 13:31:13,662 - NOAH_AI - INFO - Information saved to: C:\Users\Rudra Miyani\Documents\NOAH_Gemini_Info_machine_learning_20250828_133113.txt
+2025-08-28 13:31:13,891 - NOAH_AI - DEBUG - Opened in Notepad
+2025-08-28 13:31:13,891 - NOAH_AI - INFO - Response: I've used advanced Gemini AI to generate detailed information about machine learning and saved it to your text editor.
+2025-08-28 13:31:49,279 - NOAH_AI - INFO - User input (voice): how to install Linux
+2025-08-28 13:31:49,279 - NOAH_AI - INFO - Processing command: how to install linux
+2025-08-28 13:31:50,204 - NOAH_AI - INFO - Response: 1. Download a Linux distribution (e.g., Ubuntu, Fedora).
+2. Create a bootable USB drive using a tool like Rufus or Etcher.
+3. Boot from the USB drive and follow the on-screen installer instructions.  ... Would you like me to elaborate on any part?
+2025-08-28 13:32:21,395 - NOAH_AI - INFO - User input (voice): open camera
+2025-08-28 13:32:21,395 - NOAH_AI - INFO - Processing command: open camera
+2025-08-28 13:32:21,397 - NOAH_AI - INFO - Response: Opening camera. Press Q to close.
+2025-08-28 13:32:33,494 - NOAH_AI - INFO - Camera opened - Press Q to close
+2025-08-28 13:32:41,830 - NOAH_AI - INFO - Camera closed
+2025-08-28 13:32:41,832 - NOAH_AI - INFO - Response: Camera closed
+2025-08-28 13:32:52,008 - NOAH_AI - INFO - User input (voice): switch to text mode
+2025-08-28 13:32:52,008 - NOAH_AI - INFO - Processing command: switch to text mode
+2025-08-28 13:32:52,009 - NOAH_AI - INFO - Response: Switched to text input mode
+2025-08-28 13:33:06,996 - NOAH_AI - INFO - User input (text): how to fuck
+2025-08-28 13:33:06,997 - NOAH_AI - INFO - Processing command: how to fuck
+2025-08-28 13:33:07,724 - NOAH_AI - INFO - Response: I cannot provide instructions on that topic.  My purpose is to offer safe and helpful information.  Sexual activity requires consent and responsible behavior.
+2025-08-28 13:34:00,646 - NOAH_AI - INFO - User input (text): youtube jhol
+2025-08-28 13:34:00,646 - NOAH_AI - INFO - Processing command: youtube jhol
+2025-08-28 13:34:00,647 - NOAH_AI - INFO - Opening youtube search for: jhol
+2025-08-28 13:34:00,802 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-28 13:34:00,803 - NOAH_AI - INFO - Response: Opening youtube and searching for jhol
+2025-08-28 13:34:09,500 - NOAH_AI - INFO - User input (text): play music
+2025-08-28 13:34:09,501 - NOAH_AI - INFO - Processing command: play music
+2025-08-28 13:34:10,237 - NOAH_AI - INFO - Response: 1. Open your music app.
+2. Select a playlist or song.
+3. Press play.
+2025-08-28 13:34:25,476 - NOAH_AI - INFO - User input (text): saiyara music\
+2025-08-28 13:34:25,476 - NOAH_AI - INFO - Processing command: saiyara music\
+2025-08-28 13:34:26,376 - NOAH_AI - INFO - Response: Saiyara is a popular Indian singer.  Her music blends traditional Indian sounds with modern pop influences.  To find her music, search "Saiyara" on major streaming platforms like Spotify, Apple Music,... Would you like me to elaborate on any part?
+2025-08-28 13:35:05,313 - NOAH_AI - INFO - User input (text): youtube vloume 2
+2025-08-28 13:35:05,313 - NOAH_AI - INFO - Processing command: youtube vloume 2
+2025-08-28 13:35:05,314 - NOAH_AI - INFO - Opening youtube search for: vloume 2
+2025-08-28 13:35:05,359 - NOAH_AI - DEBUG - Opened youtube using webbrowser module
+2025-08-28 13:35:05,360 - NOAH_AI - INFO - Response: Opening youtube and searching for vloume 2
+2025-08-28 13:35:21,169 - NOAH_AI - INFO - User input (text): exit
+2025-08-28 13:35:21,170 - NOAH_AI - INFO - Processing command: exit
+2025-08-28 13:35:21,170 - NOAH_AI - INFO - Response: Goodbye Rudra! It was great helping you today with Google Gemini AI from config!
+2025-08-28 13:35:30,316 - NOAH_AI - INFO - NOAH AI Assistant session ended by user

@@ -1,0 +1,44 @@
+# NOAH AI Assistant - Enhanced Requirements
+# ========================================
+
+# Core AI/ML Libraries
+torch>=1.9.0
+transformers>=4.20.0
+numpy>=1.21.0
+
+# Speech Processing
+SpeechRecognition>=3.8.0
+pyttsx3>=2.90
+# pyaudio>=0.2.11  # Optional - comment out if installation fails
+
+# Web & Network
+requests>=2.28.0
+wikipedia>=1.4.0
+
+# System Integration
+psutil>=5.9.0
+pyautogui>=0.9.54
+opencv-python>=4.8.0
+
+# Entertainment
+pyjokes>=0.6.0
+
+# File Handling
+pathlib  # Built-in Python 3.4+
+
+# Optional dependencies for better experience
+# Install these if possible, but system will work without them:
+# 
+# For Windows:
+# pip install pypiwin32
+# 
+# For Linux:
+# sudo apt-get install python3-pyaudio portaudio19-dev
+# pip install pyaudio
+# 
+# For macOS:
+# brew install portaudio
+# pip install pyaudio
+
+# Development/Debugging (optional)
+# colorama>=0.4.0  # For colored console output
